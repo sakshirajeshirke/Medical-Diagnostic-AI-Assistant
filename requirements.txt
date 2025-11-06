@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+numpy
+opencv-python
+Pillow
+easyocr
+pdf2image
