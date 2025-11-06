@@ -82,16 +82,7 @@ Demonstrating a user asking a question about the report and the OpenRouter model
 ### 🎥 Video Demonstration
 
 You can see a full walkthrough of the application's functionality here:
-<div align="center">
-  <video src="med.mp4" 
-         controls
-         width="700"
-         loop
-         muted
-         playsinline>
-    Your browser does not support the video tag.
-  </video>
-</div>
+![medocr](https://github.com/user-attachments/assets/b23457a3-c082-4103-8297-c0d034973b28)
 
 ## ⚠️ Important Disclaimer
 
