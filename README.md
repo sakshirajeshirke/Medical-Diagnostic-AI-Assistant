@@ -82,18 +82,17 @@ Demonstrating a user asking a question about the report and the OpenRouter model
 ### 🎥 Video Demonstration
 
 You can see a full walkthrough of the application's functionality here:
+
 <div align="center">
   <video src="https://raw.githubusercontent.com/saksirajeshirke/Medical-Diagnostic-AI-Assistant/main/med.mp4" 
-         controls 
-         loop 
+         controls
+         loop
          muted
          playsinline
          width="800">
     Your browser does not support the video tag.
   </video>
 </div>
-
-**[Video of the Medical Diagnostic AI Assistant in action]**
 
 ## ⚠️ Important Disclaimer
 
